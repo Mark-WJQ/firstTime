@@ -20,5 +20,5 @@ public @interface AnnotationTest {
 
 
 enum EnumTest{
-	Hello,World,Welcome;
+	Hello,World,Welcome,M;
 }
