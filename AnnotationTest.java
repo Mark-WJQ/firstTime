@@ -20,5 +20,10 @@ public @interface AnnotationTest {
 
 
 enum EnumTest{
+<<<<<<< HEAD
 	Hello,World,Welcome,I;
 }
+=======
+	Hello,World,Welcome,M;
+}
+>>>>>>> 1bb87d6f6ffa8269be0290f9936dcbaec697704d
